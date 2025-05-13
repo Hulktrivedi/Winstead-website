@@ -30,7 +30,7 @@ export default function Home() {
             </div>
             <div className="mx-auto lg:ml-auto">
               <Image
-                src="F:\winstead-site\public\images\hero\Hero.jpeg?height=1920&width=1080"
+                src="Hulktrivedi/Winstead-website/public/images/hero/Hero.jpeg?height=1920&width=1080"
                 alt="IT Services"
                 width={600}
                 height={400}
