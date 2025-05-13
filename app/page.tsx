@@ -30,12 +30,12 @@ export default function Home() {
             </div>
             <div className="mx-auto lg:ml-auto">
               <Image
-                src="Hulktrivedi/Winstead-website/public/images/hero/Hero.jpeg?height=1920&width=1080"
+                src="Hulktrivedi/Winstead-website/public/images/hero/Hero.jpg?height=1920&width=1080"
                 alt="IT Services"
                 width={600}
                 height={400}
-                className="rounded-lg object-cover">
-                </Image>
+                className="rounded-lg object-cover"
+              />
             </div>
           </div>
         </div>
