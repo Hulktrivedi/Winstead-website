@@ -34,8 +34,8 @@ export default function Home() {
                 alt="IT Services"
                 width={600}
                 height={400}
-                className="rounded-lg object-cover"
-              />
+                className="rounded-lg object-cover">
+                </Image>
             </div>
           </div>
         </div>
